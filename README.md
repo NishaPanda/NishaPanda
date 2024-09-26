@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm NISHA PANDA</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -10,29 +10,29 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  STUDENT | Learning and Growing
 </p>
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
+      <a href=#" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
+  <a href="https://github.com/NishaPanda" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
   </a>
 </td>
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=NishaPanda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -56,7 +56,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=NishaPanda&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
@@ -114,8 +114,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+<a href="https://github.com/NishaPanda">
+    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="NishaPanda's GitHub Contribution Chart">
 </a>
 
 
@@ -128,7 +128,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   
   <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="NishaPanda's GitHub Stats">
 </details>
 
 <br>
@@ -165,7 +165,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
