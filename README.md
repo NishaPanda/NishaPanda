@@ -14,7 +14,7 @@
 
 I'm a graduate and aspiring software engineer with a passion for web development. I enjoy building projects that solve real problems, and I'm looking for an opportunity to improve my skills, learn from experienced teams, and grow with the organization.
 
-- 🔭 Currently working on: **[your current project]**
+- 🔭 Currently working on: **[AI Coloring Studio]**
 - 🌱 Currently learning: **[e.g., React, Node.js, DSA]**
 - 📫 Open to: **entry-level and fresher opportunities**
 
@@ -33,7 +33,7 @@ I'm a graduate and aspiring software engineer with a passion for web development
 | Project | Description | Tech | Links |
 |---|---|---|---|
 | **AI Coloring Studio** | AI-powered digital coloring studio | JavaScript | [Code](https://github.com/NishaPanda/ai-coloring-studio) |
-| **Cliniqly** | [One line: what does Cliniqly do?] | JavaScript | [Code](https://github.com/NishaPanda/Cliniqly) |
+| **Cliniqly** | A full-stack clinic appointment platform with doctor booking, patient-doctor real-time chat | JavaScript | [Code](https://github.com/NishaPanda/Cliniqly) |
 
 <p align="center">
   <a href="https://github.com/NishaPanda/ai-coloring-studio">
@@ -65,9 +65,9 @@ I'm a graduate and aspiring software engineer with a passion for web development
   <a href="https://www.linkedin.com/in/nisharani-panda-973587287">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <!-- <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">⭐ Thanks for visiting. Let's build something great together!</p>
