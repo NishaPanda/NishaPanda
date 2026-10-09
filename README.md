@@ -37,10 +37,10 @@ I'm a graduate and aspiring software engineer with a passion for web development
 
 <p align="center">
   <a href="https://github.com/NishaPanda/ai-coloring-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=ai-coloring-studio&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=ai-coloring-studio&theme=default&hide_border=true&v=2" />
   </a>
   <a href="https://github.com/NishaPanda/Cliniqly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=Cliniqly&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=Cliniqly&theme=default&hide_border=true&v=2" />
   </a>
 </p>
 
