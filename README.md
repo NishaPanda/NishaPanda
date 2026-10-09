@@ -1,49 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-
-
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm NISHARANI PANDA</h1>
+<h1 align="center">Hi, I'm Nisharani Panda 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Web+Developer;" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Web+Developer;Building+projects+and+growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  STUDENT | Learning and Growing
+  <img src="https://komarev.com/ghpvc/?username=NishaPanda&color=6A5ACD&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<div align="center">
+---
 
+## 👩‍💻 About Me
+
+I'm a graduate and aspiring software engineer with a passion for web development. I enjoy building projects that solve real problems, and I'm looking for an opportunity to improve my skills, learn from experienced teams, and grow with the organization.
+
+- 🔭 Currently working on: **[your current project]**
+- 🌱 Currently learning: **[e.g., React, Node.js, DSA]**
+- 📫 Open to: **entry-level and fresher opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" alt="Tech stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **AI Coloring Studio** | AI-powered digital coloring studio | JavaScript | [Code](https://github.com/NishaPanda/ai-coloring-studio) |
+| **Cliniqly** | [One line: what does Cliniqly do?] | JavaScript | [Code](https://github.com/NishaPanda/Cliniqly) |
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NishaPanda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <a href="https://github.com/NishaPanda/ai-coloring-studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=ai-coloring-studio&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/NishaPanda/Cliniqly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=Cliniqly&theme=default&hide_border=true" />
+  </a>
 </p>
 
+---
 
+## 📊 GitHub Stats
 
-<h2 align="center">🚀 About Me</h2>
-Aspiring Software Engineer seeking an opportunity to work for an organization which provide me the opportunity to improve my skills and knowledge to grow in the organization.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NishaPanda&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaPanda&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
 
-<h3 align="center">Git Stats</h3>
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=NishaPanda&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NishaPanda&hide_border=true" alt="GitHub streak" />
+</p>
 
+---
 
-<br>
+## 🤝 Let's Connect
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nisharani-panda-973587287">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-
-<br>
-
-<h3>
-<div align="center">
-  
-⭐️ From [NishaPanda](https://github.com/NishaPanda) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
-
-</div>
-</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
+<p align="center">⭐ Thanks for visiting. Let's build something great together!</p>
