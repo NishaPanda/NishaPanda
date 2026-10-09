@@ -35,14 +35,14 @@ I'm a graduate and aspiring software engineer with a passion for web development
 | **AI Coloring Studio** |AI-powered digital coloring studio where users can create, color and customize artwork online | JavaScript | [Code](https://github.com/NishaPanda/ai-coloring-studio) |
 | **Cliniqly** | A full-stack clinic appointment platform with doctor booking, patient-doctor real-time chat | JavaScript | [Code](https://github.com/NishaPanda/Cliniqly) |
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/NishaPanda/ai-coloring-studio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=ai-coloring-studio&theme=default&hide_border=true&v=2" />
   </a>
   <a href="https://github.com/NishaPanda/Cliniqly">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishaPanda&repo=Cliniqly&theme=default&hide_border=true&v=2" />
   </a>
-</p>
+</p> -->
 
 ---
 
